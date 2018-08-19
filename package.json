@@ -1,0 +1,23 @@
+{
+  "name": "mastodon-streaming-sample",
+  "version": "1.0.0",
+  "description": "Mastodon Local Time-Line streaming sample code.",
+  "main": "streaming.js",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kznrluk/mastodon-streaming-sample.git"
+  },
+  "author": "@kznr_luk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kznrluk/mastodon-streaming-sample/issues"
+  },
+  "homepage": "https://github.com/kznrluk/mastodon-streaming-sample#readme"
+}
